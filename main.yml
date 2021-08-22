@@ -1,0 +1,13 @@
+- name: luacheck for FiveM
+  # You may pin to the exact commit or the version.
+  # uses: GoatG33k/fivem-lua-lint-action@8a9ab119ada8960a016c48ee2efe901dd3989aa7
+  uses: GoatG33k/fivem-lua-lint-action@v1
+  with:
+    # luacheck arguments to pass
+    args: # optional, default is -t
+    # the path name to lint lua in
+    paths: # optional, default is .
+    # capture output into a file
+    capture: # optional, default is 
+    # extra definitions to use, in the format of a+b+c
+    extra_libs: # optional, default is 
