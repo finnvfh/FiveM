@@ -1,0 +1,1254 @@
+
+================================================================
+======== FXServer starting - 21.8.2021, 23:35:01
+================================================================
+[38;5;161m[    c-scripting-core] Creating script environments for _cfx_internal
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 98 resources.
+[38;5;161m[    c-scripting-core] Creating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] Started resource sessionmanager
+[38;5;161m[    c-scripting-core] Creating script environments for monitor
+[38;5;84m[      script:monitor] [txAdminClient] Version 4.4.2 starting...
+[38;5;73m[ citizen-server-impl] Started resource monitor
+[38;5;161m[    c-scripting-core] Creating script environments for mapmanager
+[38;5;73m[ citizen-server-impl] Started resource mapmanager
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[38;5;73m[ citizen-server-impl] Started resource yarn
+[38;5;73m[ citizen-server-impl] Running build tasks on resource webpack - it'll restart once completed.
+[38;5;163m[    c-resources-core] Could not start dependency webpack for resource chat.
+[38;5;73m[ citizen-server-impl] Couldn't start resource chat.
+[38;5;73m[ citizen-server-impl] Started resource spawnmanager
+[38;5;154m[   script:mapmanager] Started gametype Freeroam
+[38;5;73m[ citizen-server-impl] Started resource basic-gamemode
+[38;5;161m[    c-scripting-core] Creating script environments for hardcap
+[38;5;73m[ citizen-server-impl] Started resource hardcap
+[38;5;161m[    c-scripting-core] Creating script environments for baseevents
+[38;5;73m[ citizen-server-impl] Started resource baseevents
+[38;5;73m[ citizen-server-impl] Started resource progressbar
+[38;5;161m[    c-scripting-core] Creating script environments for connectqueue
+[38;5;173m[ script:connectqueue] QUEUE:  [connectqueue] Disabling hardcap 
+[38;5;73m[ citizen-server-impl] Stopping resource hardcap
+[38;5;73m[ citizen-server-impl] Started resource connectqueue
+[38;5;161m[    c-scripting-core] Creating script environments for ghmattimysql
+[38;5;73m[ citizen-server-impl] Started resource ghmattimysql
+[38;5;161m[    c-scripting-core] Creating script environments for qb-core
+[38;5;73m[ citizen-server-impl] Started resource qb-core
+[38;5;73m[ citizen-server-impl] Started resource menuv
+[38;5;161m[    c-scripting-core] Creating script environments for qb-drugs
+[38;5;73m[ citizen-server-impl] Started resource qb-drugs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-adminmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-adminmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-afk
+[38;5;73m[ citizen-server-impl] Started resource qb-afk
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ambulancejob
+[38;5;73m[ citizen-server-impl] Started resource qb-ambulancejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-anticheat
+[38;5;73m[ citizen-server-impl] Started resource qb-anticheat
+[38;5;73m[ citizen-server-impl] Asset qb-interior/micheal_shell.ydr uses 30.5 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-interior/micheal_shell.ydr uses 30.5 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-interior/methlab_shell.ytd uses 23.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-interior/methlab_shell.ytd uses 23.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-interior/frankelientje.ydr uses 27.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-interior/frankelientje.ydr uses 27.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource qb-interior
+[38;5;161m[    c-scripting-core] Creating script environments for qb-clothing
+yarn install v1.22.5
+[38;5;73m[ citizen-server-impl] Started resource qb-clothing
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weathersync
+[38;5;73m[ citizen-server-impl] Started resource qb-weathersync
+[38;5;161m[    c-scripting-core] Creating script environments for qb-apartments
+[38;5;73m[ citizen-server-impl] Started resource qb-apartments
+[38;5;161m[    c-scripting-core] Creating script environments for qb-atms
+[38;5;73m[ citizen-server-impl] Started resource qb-atms
+[38;5;161m[    c-scripting-core] Creating script environments for qb-banking
+[38;5;73m[ citizen-server-impl] Started resource qb-banking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bankrobbery
+[1/4] Resolving packages...
+[38;5;73m[ citizen-server-impl] Started resource qb-bankrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-blackjack
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_m_y_casino_01.ytd uses 20.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_m_y_casino_01.ytd uses 20.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_f_y_casino_01.ytd uses 20.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_f_y_casino_01.ytd uses 20.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource qb-blackjack
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bossmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-bossmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-builderjob
+[38;5;73m[ citizen-server-impl] Started resource qb-builderjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-carwash
+[38;5;73m[ citizen-server-impl] Started resource qb-carwash
+[38;5;161m[    c-scripting-core] Creating script environments for qb-casino
+[38;5;73m[ citizen-server-impl] Started resource qb-casino
+[38;5;161m[    c-scripting-core] Creating script environments for qb-cityhall
+[38;5;73m[ citizen-server-impl] Started resource qb-cityhall
+[38;5;161m[    c-scripting-core] Creating script environments for qb-coke
+[38;5;73m[ citizen-server-impl] Started resource qb-coke
+[38;5;161m[    c-scripting-core] Creating script environments for qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource qb-crafting
+[38;5;73m[ citizen-server-impl] Started resource mhacking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-crypto
+[2/4] Fetching packages...
+[38;5;73m[ citizen-server-impl] Started resource qb-crypto
+[38;5;161m[    c-scripting-core] Creating script environments for qb-customs
+[38;5;73m[ citizen-server-impl] Started resource qb-customs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-diving
+[38;5;73m[ citizen-server-impl] Started resource qb-diving
+[38;5;161m[    c-scripting-core] Creating script environments for qb-doorlock
+[38;5;73m[ citizen-server-impl] Started resource qb-doorlock
+[38;5;161m[    c-scripting-core] Creating script environments for qb-fitbit
+[38;5;73m[ citizen-server-impl] Started resource qb-fitbit
+[38;5;161m[    c-scripting-core] Creating script environments for qb-gangmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-gangmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garages
+[38;5;73m[ citizen-server-impl] Started resource qb-garages
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garbagejob
+[38;5;73m[ citizen-server-impl] Started resource qb-garbagejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hotdogjob
+[38;5;73m[ citizen-server-impl] Started resource qb-hotdogjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houserobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-houserobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houses
+[38;5;73m[ citizen-server-impl] Started resource qb-houses
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hud
+[38;5;73m[ citizen-server-impl] Started resource qb-hud
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ifruitstore
+[38;5;73m[ citizen-server-impl] Started resource qb-ifruitstore
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weapons
+[38;5;73m[ citizen-server-impl] Started resource qb-weapons
+[38;5;161m[    c-scripting-core] Creating script environments for qb-inventory
+[38;5;73m[ citizen-server-impl] Started resource qb-inventory
+[38;5;161m[    c-scripting-core] Creating script environments for qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-keyminigame
+[38;5;161m[    c-scripting-core] Creating script environments for qb-lapraces
+[38;5;73m[ citizen-server-impl] Started resource qb-lapraces
+[38;5;161m[    c-scripting-core] Creating script environments for qb-lawyerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-lawyerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-lockpick
+[38;5;161m[    c-scripting-core] Creating script environments for qb-logs
+[38;5;73m[ citizen-server-impl] Started resource qb-logs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-mechanicjob
+[38;5;73m[ citizen-server-impl] Started resource qb-mechanicjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-methlab
+[38;5;73m[ citizen-server-impl] Started resource qb-methlab
+[38;5;161m[    c-scripting-core] Creating script environments for qb-spawn
+[38;5;73m[ citizen-server-impl] Started resource qb-spawn
+[38;5;161m[    c-scripting-core] Creating script environments for qb-multicharacter
+[38;5;73m[ citizen-server-impl] Started resource qb-multicharacter
+[38;5;161m[    c-scripting-core] Creating script environments for qb-newsjob
+[38;5;73m[ citizen-server-impl] Started resource qb-newsjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-oxyrun
+[38;5;73m[ citizen-server-impl] Started resource qb-oxyrun
+[38;5;161m[    c-scripting-core] Creating script environments for qb-pawnshop
+[38;5;73m[ citizen-server-impl] Started resource qb-pawnshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-policejob
+[38;5;73m[ citizen-server-impl] Started resource qb-policejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-prison
+[38;5;73m[ citizen-server-impl] Started resource qb-prison
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radialmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-radialmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-recyclejob
+[38;5;73m[ citizen-server-impl] Started resource qb-recyclejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scoreboard
+[38;5;73m[ citizen-server-impl] Started resource qb-scoreboard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scrapyard
+[38;5;73m[ citizen-server-impl] Started resource qb-scrapyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-shops
+[38;5;73m[ citizen-server-impl] Started resource qb-shops
+[38;5;161m[    c-scripting-core] Creating script environments for qb-skillbar
+[38;5;73m[ citizen-server-impl] Started resource qb-skillbar
+[38;5;161m[    c-scripting-core] Creating script environments for qb-smallresources
+[38;5;73m[ citizen-server-impl] Started resource qb-smallresources
+[38;5;161m[    c-scripting-core] Creating script environments for qb-storerobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-storerobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-streetraces
+[38;5;73m[ citizen-server-impl] Started resource qb-streetraces
+[38;5;161m[    c-scripting-core] Creating script environments for qb-taxijob
+[38;5;73m[ citizen-server-impl] Started resource qb-taxijob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-towjob
+[38;5;73m[ citizen-server-impl] Started resource qb-towjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-traphouse
+[38;5;73m[ citizen-server-impl] Started resource qb-traphouse
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-truckerjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-truckrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-tunerchip
+[38;5;73m[ citizen-server-impl] Started resource qb-tunerchip
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclefailure
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclefailure
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclekeys
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclekeys
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclepush
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclesales
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclesales
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehicleshop
+[38;5;73m[ citizen-server-impl] Started resource qb-vehicleshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vineyard
+[38;5;73m[ citizen-server-impl] Started resource qb-vineyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weed
+[38;5;73m[ citizen-server-impl] Started resource qb-weed
+[38;5;161m[    c-scripting-core] Creating script environments for LegacyFuel
+[38;5;73m[ citizen-server-impl] Started resource LegacyFuel
+[38;5;73m[ citizen-server-impl] Started resource bob74_ipl
+[38;5;161m[    c-scripting-core] Creating script environments for dpemotes
+[38;5;133m[     script:dpemotes] [dp] Sql Keybinding is turned off, if you want to enable /emotebind, import dpkeybinding.sql and set SqlKeybinding = true in config.lua.
+[38;5;73m[ citizen-server-impl] Started resource dpemotes
+[38;5;73m[ citizen-server-impl] Started resource safecracker
+[38;5;161m[    c-scripting-core] Creating script environments for pma-voice
+[38;5;73m[ citizen-server-impl] Started resource pma-voice
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radio
+[38;5;73m[ citizen-server-impl] Started resource qb-radio
+[38;5;66m[          svadhesive] Authenticating server license key...
+[38;5;77m[ script:ghmattimysql] [ghmattimysql] [SUCCESS] Database server connection established.
+[38;5;66m[          svadhesive] Server license key authentication succeeded. Welcome!
+[38;5;24m[   script:qb-methlab] Lab entry has been set to location: 1
+[38;5;84m[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 986 milliseconds
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [WARNING] [qb-weed] [945ms] SELECT * FROM house_plants : []
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [WARNING] [qb-weed] [946ms] SELECT * FROM house_plants : []
+[38;5;73m[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl]                                      
+[38;5;73m[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://tranqitb-444l7q.users.cfx.re/
+[38;5;133m[     script:dpemotes] 
+[38;5;133m[     script:dpemotes] dp Emotes (dpemotes) is up to date. (173)
+[38;5;73m[ citizen-server-impl] -- [server notice: tebex_not_set]
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] 
+info fsevents@2.3.1: The platform "linux" is incompatible with this module.
+info "fsevents@2.3.1" is an optional dependency and failed compatibility check. Excluding it from installation.
+info fsevents@1.2.13: The platform "linux" is incompatible with this module.
+info "fsevents@1.2.13" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+Done in 9.69s.
+[38;5;73m[ citizen-server-impl] Build tasks completed - starting resource webpack.
+[38;5;161m[    c-scripting-core] Creating script environments for webpack
+[38;5;73m[ citizen-server-impl] Running build tasks on resource chat - it'll restart once completed.
+[38;5;73m[ citizen-server-impl] Started resource webpack
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 182 milliseconds
+yarn install v1.22.5
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+info fsevents@1.2.11: The platform "linux" is incompatible with this module.
+info "fsevents@1.2.11" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+Done in 17.48s.
+[38;5;21m[      script:webpack] chat: started building webpack.config.js
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 934 milliseconds
+[38;5;21m[      script:webpack] chat: built webpack.config.js
+[38;5;73m[ citizen-server-impl] Build tasks completed - starting resource chat.
+[38;5;161m[    c-scripting-core] Creating script environments for chat
+[38;5;73m[ citizen-server-impl] Started resource chat
+
+================================================================
+======== FXServer starting - 21.8.2021, 23:39:45
+================================================================
+[38;5;161m[    c-scripting-core] Creating script environments for _cfx_internal
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 98 resources.
+[38;5;161m[    c-scripting-core] Creating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] Started resource sessionmanager
+[38;5;161m[    c-scripting-core] Creating script environments for monitor
+[38;5;84m[      script:monitor] [txAdminClient] Version 4.4.2 starting...
+[38;5;73m[ citizen-server-impl] Started resource monitor
+[38;5;161m[    c-scripting-core] Creating script environments for mapmanager
+[38;5;73m[ citizen-server-impl] Started resource mapmanager
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[38;5;73m[ citizen-server-impl] Started resource yarn
+[38;5;161m[    c-scripting-core] Creating script environments for webpack
+[38;5;73m[ citizen-server-impl] Started resource webpack
+[38;5;161m[    c-scripting-core] Creating script environments for chat
+[38;5;73m[ citizen-server-impl] Started resource chat
+[38;5;73m[ citizen-server-impl] Started resource spawnmanager
+[38;5;154m[   script:mapmanager] Started gametype Freeroam
+[38;5;73m[ citizen-server-impl] Started resource basic-gamemode
+[38;5;161m[    c-scripting-core] Creating script environments for hardcap
+[38;5;73m[ citizen-server-impl] Started resource hardcap
+[38;5;161m[    c-scripting-core] Creating script environments for baseevents
+[38;5;73m[ citizen-server-impl] Started resource baseevents
+[38;5;73m[ citizen-server-impl] Started resource progressbar
+[38;5;161m[    c-scripting-core] Creating script environments for connectqueue
+[38;5;173m[ script:connectqueue] QUEUE:  [connectqueue] Disabling hardcap 
+[38;5;73m[ citizen-server-impl] Stopping resource hardcap
+[38;5;73m[ citizen-server-impl] Started resource connectqueue
+[38;5;161m[    c-scripting-core] Creating script environments for ghmattimysql
+[38;5;73m[ citizen-server-impl] Started resource ghmattimysql
+[38;5;161m[    c-scripting-core] Creating script environments for qb-core
+[38;5;73m[ citizen-server-impl] Started resource qb-core
+[38;5;73m[ citizen-server-impl] Started resource menuv
+[38;5;161m[    c-scripting-core] Creating script environments for qb-drugs
+[38;5;73m[ citizen-server-impl] Started resource qb-drugs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-adminmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-adminmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-afk
+[38;5;73m[ citizen-server-impl] Started resource qb-afk
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ambulancejob
+[38;5;73m[ citizen-server-impl] Started resource qb-ambulancejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-anticheat
+[38;5;73m[ citizen-server-impl] Started resource qb-anticheat
+[38;5;73m[ citizen-server-impl] Asset qb-interior/frankelientje.ydr uses 27.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-interior/methlab_shell.ytd uses 23.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-interior/micheal_shell.ydr uses 30.5 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource qb-interior
+[38;5;161m[    c-scripting-core] Creating script environments for qb-clothing
+[38;5;73m[ citizen-server-impl] Started resource qb-clothing
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weathersync
+[38;5;73m[ citizen-server-impl] Started resource qb-weathersync
+[38;5;161m[    c-scripting-core] Creating script environments for qb-apartments
+[38;5;73m[ citizen-server-impl] Started resource qb-apartments
+[38;5;161m[    c-scripting-core] Creating script environments for qb-atms
+[38;5;73m[ citizen-server-impl] Started resource qb-atms
+[38;5;161m[    c-scripting-core] Creating script environments for qb-banking
+[38;5;73m[ citizen-server-impl] Started resource qb-banking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bankrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-bankrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-blackjack
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_f_y_casino_01.ytd uses 20.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_m_y_casino_01.ytd uses 20.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource qb-blackjack
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bossmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-bossmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-builderjob
+[38;5;73m[ citizen-server-impl] Started resource qb-builderjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-carwash
+[38;5;73m[ citizen-server-impl] Started resource qb-carwash
+[38;5;161m[    c-scripting-core] Creating script environments for qb-casino
+[38;5;73m[ citizen-server-impl] Started resource qb-casino
+[38;5;161m[    c-scripting-core] Creating script environments for qb-cityhall
+[38;5;73m[ citizen-server-impl] Started resource qb-cityhall
+[38;5;161m[    c-scripting-core] Creating script environments for qb-coke
+[38;5;73m[ citizen-server-impl] Started resource qb-coke
+[38;5;161m[    c-scripting-core] Creating script environments for qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource qb-crafting
+[38;5;73m[ citizen-server-impl] Started resource mhacking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-crypto
+[38;5;73m[ citizen-server-impl] Started resource qb-crypto
+[38;5;161m[    c-scripting-core] Creating script environments for qb-customs
+[38;5;73m[ citizen-server-impl] Started resource qb-customs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-diving
+[38;5;73m[ citizen-server-impl] Started resource qb-diving
+[38;5;161m[    c-scripting-core] Creating script environments for qb-doorlock
+[38;5;73m[ citizen-server-impl] Started resource qb-doorlock
+[38;5;161m[    c-scripting-core] Creating script environments for qb-fitbit
+[38;5;73m[ citizen-server-impl] Started resource qb-fitbit
+[38;5;161m[    c-scripting-core] Creating script environments for qb-gangmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-gangmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garages
+[38;5;73m[ citizen-server-impl] Started resource qb-garages
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garbagejob
+[38;5;73m[ citizen-server-impl] Started resource qb-garbagejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hotdogjob
+[38;5;73m[ citizen-server-impl] Started resource qb-hotdogjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houserobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-houserobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houses
+[38;5;73m[ citizen-server-impl] Started resource qb-houses
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hud
+[38;5;73m[ citizen-server-impl] Started resource qb-hud
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ifruitstore
+[38;5;73m[ citizen-server-impl] Started resource qb-ifruitstore
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weapons
+[38;5;73m[ citizen-server-impl] Started resource qb-weapons
+[38;5;161m[    c-scripting-core] Creating script environments for qb-inventory
+[38;5;73m[ citizen-server-impl] Started resource qb-inventory
+[38;5;161m[    c-scripting-core] Creating script environments for qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-keyminigame
+[38;5;161m[    c-scripting-core] Creating script environments for qb-lapraces
+[38;5;73m[ citizen-server-impl] Started resource qb-lapraces
+[38;5;161m[    c-scripting-core] Creating script environments for qb-lawyerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-lawyerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-lockpick
+[38;5;161m[    c-scripting-core] Creating script environments for qb-logs
+[38;5;73m[ citizen-server-impl] Started resource qb-logs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-mechanicjob
+[38;5;73m[ citizen-server-impl] Started resource qb-mechanicjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-methlab
+[38;5;73m[ citizen-server-impl] Started resource qb-methlab
+[38;5;161m[    c-scripting-core] Creating script environments for qb-spawn
+[38;5;73m[ citizen-server-impl] Started resource qb-spawn
+[38;5;161m[    c-scripting-core] Creating script environments for qb-multicharacter
+[38;5;73m[ citizen-server-impl] Started resource qb-multicharacter
+[38;5;161m[    c-scripting-core] Creating script environments for qb-newsjob
+[38;5;73m[ citizen-server-impl] Started resource qb-newsjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-oxyrun
+[38;5;73m[ citizen-server-impl] Started resource qb-oxyrun
+[38;5;161m[    c-scripting-core] Creating script environments for qb-pawnshop
+[38;5;73m[ citizen-server-impl] Started resource qb-pawnshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-policejob
+[38;5;73m[ citizen-server-impl] Started resource qb-policejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-prison
+[38;5;73m[ citizen-server-impl] Started resource qb-prison
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radialmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-radialmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-recyclejob
+[38;5;73m[ citizen-server-impl] Started resource qb-recyclejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scoreboard
+[38;5;73m[ citizen-server-impl] Started resource qb-scoreboard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scrapyard
+[38;5;73m[ citizen-server-impl] Started resource qb-scrapyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-shops
+[38;5;73m[ citizen-server-impl] Started resource qb-shops
+[38;5;161m[    c-scripting-core] Creating script environments for qb-skillbar
+[38;5;73m[ citizen-server-impl] Started resource qb-skillbar
+[38;5;161m[    c-scripting-core] Creating script environments for qb-smallresources
+[38;5;73m[ citizen-server-impl] Started resource qb-smallresources
+[38;5;161m[    c-scripting-core] Creating script environments for qb-storerobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-storerobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-streetraces
+[38;5;73m[ citizen-server-impl] Started resource qb-streetraces
+[38;5;161m[    c-scripting-core] Creating script environments for qb-taxijob
+[38;5;73m[ citizen-server-impl] Started resource qb-taxijob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-towjob
+[38;5;73m[ citizen-server-impl] Started resource qb-towjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-traphouse
+[38;5;73m[ citizen-server-impl] Started resource qb-traphouse
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-truckerjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-truckrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-tunerchip
+[38;5;73m[ citizen-server-impl] Started resource qb-tunerchip
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclefailure
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclefailure
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclekeys
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclekeys
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclepush
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclesales
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclesales
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehicleshop
+[38;5;73m[ citizen-server-impl] Started resource qb-vehicleshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vineyard
+[38;5;73m[ citizen-server-impl] Started resource qb-vineyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weed
+[38;5;73m[ citizen-server-impl] Started resource qb-weed
+[38;5;161m[    c-scripting-core] Creating script environments for LegacyFuel
+[38;5;73m[ citizen-server-impl] Started resource LegacyFuel
+[38;5;73m[ citizen-server-impl] Started resource bob74_ipl
+[38;5;161m[    c-scripting-core] Creating script environments for dpemotes
+[38;5;133m[     script:dpemotes] [dp] Sql Keybinding is turned off, if you want to enable /emotebind, import dpkeybinding.sql and set SqlKeybinding = true in config.lua.
+[38;5;73m[ citizen-server-impl] Started resource dpemotes
+[38;5;73m[ citizen-server-impl] Started resource safecracker
+[38;5;161m[    c-scripting-core] Creating script environments for pma-voice
+[38;5;73m[ citizen-server-impl] Started resource pma-voice
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radio
+[38;5;73m[ citizen-server-impl] Started resource qb-radio
+[38;5;66m[          svadhesive] Authenticating server license key...
+[38;5;77m[ script:ghmattimysql] [ghmattimysql] [SUCCESS] Database server connection established.
+[38;5;66m[          svadhesive] Server license key authentication succeeded. Welcome!
+[38;5;24m[   script:qb-methlab] Lab entry has been set to location: 1
+[38;5;84m[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 1000 milliseconds
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [WARNING] [qb-weed] [979ms] SELECT * FROM house_plants : []
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [WARNING] [qb-weed] [988ms] SELECT * FROM house_plants : []
+[38;5;73m[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl]                                      
+[38;5;73m[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://tranqitb-444l7q.users.cfx.re/
+[38;5;133m[     script:dpemotes] 
+[38;5;133m[     script:dpemotes] dp Emotes (dpemotes) is up to date. (173)
+[38;5;73m[ citizen-server-impl] -- [server notice: tebex_not_set]
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] 
+[38;5;173m[ script:connectqueue] QUEUE: 🐳[license:bc5a2800df8ee519f725eabca276638c7983a5c9] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: 🐳[license:bc5a2800df8ee519f725eabca276638c7983a5c9] is loading into the server
+[38;5;173m[ script:connectqueue] QUEUE: 🐳[license:bc5a2800df8ee519f725eabca276638c7983a5c9] was placed 1/1 in queue
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] 🐳 has succesfully loaded!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["SNQ26508",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5000,\"crypto\":0,\"cash\":500}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1627006247\",\"nationality\":\"Japenese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US02QBCore3876445781\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"name\":\"unemployed\",\"payment\":10,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"x\":-1035.7099609375,\"y\":-2731.8701171875,\"z\":12.85999965667724,\"w\":0.0}","{\"injail\":0,\"status\":[],\"tracker\":false,\"attachmentcraftingrep\":0,\"bloodtype\":\"B-\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":78794474},\"fingerprint\":\"ZG759Z00nrD2753\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-67805614\",\"craftingrep\":0,\"hunger\":100,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":100,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;199m[         script:chat] 🐳: yo
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["SNQ26508",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5000,\"crypto\":0,\"cash\":500}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1627006247\",\"nationality\":\"Japenese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US02QBCore3876445781\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"name\":\"unemployed\",\"payment\":10,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"z\":36.68145751953125,\"w\":155.86398315429688,\"x\":236.4350128173828,\"y\":-691.928466796875}","{\"injail\":0,\"status\":[],\"tracker\":false,\"currentapartment\":\"apartment34194\",\"attachmentcraftingrep\":0,\"bloodtype\":\"B-\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":78794474},\"fingerprint\":\"ZG759Z00nrD2753\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-67805614\",\"craftingrep\":0,\"hunger\":95.79999999999927,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":96.19999999999982,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;173m[ script:connectqueue] QUEUE: Philup[license:53429ebefb5dda5553d0a14e954ae8b0c855055c] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: Philup[license:53429ebefb5dda5553d0a14e954ae8b0c855055c] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["SNQ26508",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5010,\"crypto\":0,\"cash\":500}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1627006247\",\"nationality\":\"Japenese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US02QBCore3876445781\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"name\":\"unemployed\",\"payment\":10,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"z\":29.79703521728515,\"w\":91.90316009521485,\"x\":22.83907127380371,\"y\":-1106.955322265625}","{\"injail\":0,\"status\":[],\"tracker\":false,\"currentapartment\":\"apartment34194\",\"attachmentcraftingrep\":0,\"bloodtype\":\"B-\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":78794474},\"fingerprint\":\"ZG759Z00nrD2753\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-67805614\",\"craftingrep\":0,\"hunger\":91.59999999999855,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":92.39999999999964,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;173m[ script:connectqueue] QUEUE: Philup[license:53429ebefb5dda5553d0a14e954ae8b0c855055c] was removed from the connecting queue because they timed out
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["SNQ26508",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5010,\"crypto\":0,\"cash\":250.0}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1627006247\",\"nationality\":\"Japenese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US02QBCore3876445781\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"name\":\"unemployed\",\"payment\":10,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"z\":29.49701690673828,\"w\":80.8173599243164,\"x\":25.74694442749023,\"y\":-1344.461669921875}","{\"injail\":0,\"status\":[],\"tracker\":false,\"currentapartment\":\"apartment34194\",\"attachmentcraftingrep\":0,\"bloodtype\":\"B-\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":78794474},\"fingerprint\":\"ZG759Z00nrD2753\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-67805614\",\"craftingrep\":0,\"hunger\":87.39999999999782,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":88.59999999999946,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["SNQ26508",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5020,\"crypto\":0,\"cash\":250.0}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1627006247\",\"nationality\":\"Japenese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US02QBCore3876445781\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"name\":\"unemployed\",\"payment\":10,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"z\":28.81424903869629,\"w\":178.94688415527345,\"x\":13.65706920623779,\"y\":-1118.251220703125}","{\"injail\":0,\"status\":[],\"tracker\":false,\"currentapartment\":\"apartment34194\",\"attachmentcraftingrep\":0,\"bloodtype\":\"B-\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":78794474},\"fingerprint\":\"ZG759Z00nrD2753\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-67805614\",\"craftingrep\":0,\"hunger\":83.19999999999709,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":84.79999999999927,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["SNQ26508",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5020,\"crypto\":0,\"cash\":250.0}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1627006247\",\"nationality\":\"Japenese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US02QBCore3876445781\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"name\":\"unemployed\",\"payment\":10,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"z\":28.81424903869629,\"w\":178.94688415527345,\"x\":13.65706920623779,\"y\":-1118.251220703125}","{\"injail\":0,\"status\":[],\"tracker\":false,\"currentapartment\":\"apartment34194\",\"attachmentcraftingrep\":0,\"bloodtype\":\"B-\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":78794474},\"fingerprint\":\"ZG759Z00nrD2753\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-67805614\",\"craftingrep\":0,\"hunger\":78.99999999999636,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":80.99999999999909,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["SNQ26508",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5030,\"crypto\":0,\"cash\":250.0}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1627006247\",\"nationality\":\"Japenese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US02QBCore3876445781\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"name\":\"unemployed\",\"payment\":10,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"z\":28.81424903869629,\"w\":178.94688415527345,\"x\":13.65706920623779,\"y\":-1118.251220703125}","{\"injail\":0,\"status\":[],\"tracker\":false,\"currentapartment\":\"apartment34194\",\"attachmentcraftingrep\":0,\"bloodtype\":\"B-\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":78794474},\"fingerprint\":\"ZG759Z00nrD2753\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-67805614\",\"craftingrep\":0,\"hunger\":74.79999999999564,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":77.19999999999891,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["SNQ26508",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5030,\"crypto\":0,\"cash\":250.0}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1627006247\",\"nationality\":\"Japenese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US02QBCore3876445781\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"name\":\"unemployed\",\"payment\":10,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"z\":28.81424903869629,\"w\":178.94688415527345,\"x\":13.65706920623779,\"y\":-1118.251220703125}","{\"injail\":0,\"status\":[],\"tracker\":false,\"currentapartment\":\"apartment34194\",\"attachmentcraftingrep\":0,\"bloodtype\":\"B-\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":78794474},\"fingerprint\":\"ZG759Z00nrD2753\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-67805614\",\"craftingrep\":0,\"hunger\":70.5999999999949,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":73.39999999999873,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["SNQ26508",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5040,\"crypto\":0,\"cash\":250.0}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1627006247\",\"nationality\":\"Japenese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US02QBCore3876445781\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"name\":\"unemployed\",\"payment\":10,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"z\":28.81424903869629,\"w\":178.94688415527345,\"x\":13.65706920623779,\"y\":-1118.251220703125}","{\"injail\":0,\"status\":[],\"tracker\":false,\"currentapartment\":\"apartment34194\",\"attachmentcraftingrep\":0,\"bloodtype\":\"B-\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":78794474},\"fingerprint\":\"ZG759Z00nrD2753\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-67805614\",\"craftingrep\":0,\"hunger\":66.39999999999418,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":69.59999999999855,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["SNQ26508",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5040,\"crypto\":0,\"cash\":250.0}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1627006247\",\"nationality\":\"Japenese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US02QBCore3876445781\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"name\":\"unemployed\",\"payment\":10,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"z\":28.81424903869629,\"w\":178.94688415527345,\"x\":13.65706920623779,\"y\":-1118.251220703125}","{\"injail\":0,\"status\":[],\"tracker\":false,\"currentapartment\":\"apartment34194\",\"attachmentcraftingrep\":0,\"bloodtype\":\"B-\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":78794474},\"fingerprint\":\"ZG759Z00nrD2753\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-67805614\",\"craftingrep\":0,\"hunger\":62.19999999999345,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":65.79999999999837,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;134m[      script:qb-core] Dropped: 🐳
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["SNQ26508",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5050,\"crypto\":0,\"cash\":250.0}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1627006247\",\"nationality\":\"Japenese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US02QBCore3876445781\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"name\":\"unemployed\",\"payment\":10,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"z\":28.81424903869629,\"w\":178.94688415527345,\"x\":13.65706920623779,\"y\":-1118.251220703125}","{\"injail\":0,\"status\":[],\"tracker\":false,\"currentapartment\":\"apartment34194\",\"attachmentcraftingrep\":0,\"bloodtype\":\"B-\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":78794474},\"fingerprint\":\"ZG759Z00nrD2753\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-67805614\",\"craftingrep\":0,\"hunger\":62.19999999999345,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":65.79999999999837,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;173m[ script:connectqueue] QUEUE: 🐳[license:bc5a2800df8ee519f725eabca276638c7983a5c9] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: 🐳[license:bc5a2800df8ee519f725eabca276638c7983a5c9] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] 🐳 has succesfully loaded!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["RBE15793",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5000,\"crypto\":0,\"cash\":500}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1974390560\",\"nationality\":\"Japanese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US04QBCore7069316215\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"name\":\"unemployed\",\"payment\":10,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"x\":-1035.7099609375,\"y\":-2731.8701171875,\"z\":12.85999965667724,\"w\":0.0}","{\"injail\":0,\"status\":[],\"tracker\":false,\"attachmentcraftingrep\":0,\"bloodtype\":\"AB+\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":32965591},\"fingerprint\":\"eC754F97PXJ7617\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-76444963\",\"craftingrep\":0,\"hunger\":100,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":100,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;173m[ script:connectqueue] QUEUE: ................................[license:c16c5fdb52a2f4616e35fcbc630453b3bd5a3478] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: ................................[license:c16c5fdb52a2f4616e35fcbc630453b3bd5a3478] is loading into the server
+[38;5;173m[ script:connectqueue] QUEUE: ................................[license:c16c5fdb52a2f4616e35fcbc630453b3bd5a3478] was placed 1/1 in queue
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["RBE15793",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5000,\"crypto\":0,\"cash\":250.0}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1974390560\",\"nationality\":\"Japanese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US04QBCore7069316215\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"name\":\"unemployed\",\"payment\":10,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"z\":28.28740882873535,\"w\":80.64911651611328,\"x\":3.92410683631896,\"y\":-1123.429443359375}","{\"injail\":0,\"status\":[],\"tracker\":false,\"currentapartment\":\"apartment35427\",\"attachmentcraftingrep\":0,\"bloodtype\":\"AB+\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":32965591},\"fingerprint\":\"eC754F97PXJ7617\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-76444963\",\"craftingrep\":0,\"hunger\":95.79999999999927,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":96.19999999999982,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;173m[ script:connectqueue] QUEUE: ................................[license:c16c5fdb52a2f4616e35fcbc630453b3bd5a3478] was removed from the connecting queue because they timed out
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["RBE15793",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5010,\"crypto\":0,\"cash\":250.0}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1974390560\",\"nationality\":\"Japanese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US04QBCore7069316215\"}","{\"label\":\"Garbage\",\"grade\":{\"name\":\"Collector\",\"level\":0},\"name\":\"garbage\",\"payment\":50,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"z\":29.21102142333984,\"w\":136.18804931640626,\"x\":-198.5261993408203,\"y\":-872.8617553710938}","{\"injail\":0,\"status\":[],\"tracker\":false,\"currentapartment\":\"apartment35427\",\"attachmentcraftingrep\":0,\"bloodtype\":\"AB+\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":32965591},\"fingerprint\":\"eC754F97PXJ7617\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-76444963\",\"craftingrep\":0,\"hunger\":91.59999999999855,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":92.39999999999964,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;134m[      script:qb-core] Dropped: 🐳
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["RBE15793",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5010,\"crypto\":0,\"cash\":250.0}","{\"gender\":0,\"firstname\":\"Tranqi\",\"phone\":\"1974390560\",\"nationality\":\"Japanese\",\"backstory\":\"placeholder backstory\",\"cid\":\"1\",\"lastname\":\"Escobar\",\"birthdate\":\"2000-12-02\",\"account\":\"US04QBCore7069316215\"}","{\"label\":\"Garbage\",\"grade\":{\"name\":\"Collector\",\"level\":0},\"name\":\"garbage\",\"payment\":50,\"isboss\":false,\"onduty\":true}","{\"name\":\"none\",\"grade\":{\"name\":\"none\",\"level\":0},\"label\":\"No Gang Affiliaton\",\"isboss\":false}","{\"z\":34.68215942382812,\"w\":3.86362981796264,\"x\":-144.96099853515626,\"y\":-729.3594970703125}","{\"injail\":0,\"status\":[],\"tracker\":false,\"currentapartment\":\"apartment35427\",\"attachmentcraftingrep\":0,\"bloodtype\":\"AB+\",\"isdead\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":32965591},\"fingerprint\":\"eC754F97PXJ7617\",\"licences\":{\"driver\":true,\"business\":false,\"weapon\":false},\"jobrep\":{\"tow\":0,\"taxi\":0,\"hotdog\":0,\"trucker\":0},\"fitbit\":[],\"phone\":[],\"criminalrecord\":{\"hasRecord\":false},\"callsign\":\"NO CALLSIGN\",\"walletid\":\"QB-76444963\",\"craftingrep\":0,\"hunger\":91.59999999999855,\"ishandcuffed\":false,\"dealerrep\":0,\"armor\":0,\"inlaststand\":false,\"thirst\":92.39999999999964,\"jailitems\":[],\"stress\":0}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+
+================================================================
+======== FXServer starting - 22.8.2021, 01:48:48
+================================================================
+[38;5;161m[    c-scripting-core] Creating script environments for _cfx_internal
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 98 resources.
+[38;5;161m[    c-scripting-core] Creating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] Started resource sessionmanager
+[38;5;161m[    c-scripting-core] Creating script environments for monitor
+[38;5;84m[      script:monitor] [txAdminClient] Version 4.4.2 starting...
+[38;5;73m[ citizen-server-impl] Started resource monitor
+[38;5;161m[    c-scripting-core] Creating script environments for mapmanager
+[38;5;73m[ citizen-server-impl] Started resource mapmanager
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[38;5;73m[ citizen-server-impl] Started resource yarn
+[38;5;161m[    c-scripting-core] Creating script environments for webpack
+[38;5;73m[ citizen-server-impl] Started resource webpack
+[38;5;161m[    c-scripting-core] Creating script environments for chat
+[38;5;73m[ citizen-server-impl] Started resource chat
+[38;5;73m[ citizen-server-impl] Started resource spawnmanager
+[38;5;154m[   script:mapmanager] Started gametype Freeroam
+[38;5;73m[ citizen-server-impl] Started resource basic-gamemode
+[38;5;161m[    c-scripting-core] Creating script environments for hardcap
+[38;5;73m[ citizen-server-impl] Started resource hardcap
+[38;5;161m[    c-scripting-core] Creating script environments for baseevents
+[38;5;73m[ citizen-server-impl] Started resource baseevents
+[38;5;73m[ citizen-server-impl] Started resource progressbar
+[38;5;161m[    c-scripting-core] Creating script environments for connectqueue
+[38;5;173m[ script:connectqueue] QUEUE:  [connectqueue] Disabling hardcap 
+[38;5;73m[ citizen-server-impl] Stopping resource hardcap
+[38;5;73m[ citizen-server-impl] Started resource connectqueue
+[38;5;161m[    c-scripting-core] Creating script environments for ghmattimysql
+[38;5;73m[ citizen-server-impl] Started resource ghmattimysql
+[38;5;161m[    c-scripting-core] Creating script environments for qb-core
+[38;5;73m[ citizen-server-impl] Started resource qb-core
+[38;5;73m[ citizen-server-impl] Started resource menuv
+[38;5;161m[    c-scripting-core] Creating script environments for qb-drugs
+[38;5;73m[ citizen-server-impl] Started resource qb-drugs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-adminmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-adminmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-afk
+[38;5;73m[ citizen-server-impl] Started resource qb-afk
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ambulancejob
+[38;5;73m[ citizen-server-impl] Started resource qb-ambulancejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-anticheat
+[38;5;73m[ citizen-server-impl] Started resource qb-anticheat
+[38;5;73m[ citizen-server-impl] Asset qb-interior/frankelientje.ydr uses 27.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-interior/methlab_shell.ytd uses 23.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-interior/micheal_shell.ydr uses 30.5 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource qb-interior
+[38;5;161m[    c-scripting-core] Creating script environments for qb-clothing
+[38;5;73m[ citizen-server-impl] Started resource qb-clothing
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weathersync
+[38;5;73m[ citizen-server-impl] Started resource qb-weathersync
+[38;5;161m[    c-scripting-core] Creating script environments for qb-apartments
+[38;5;73m[ citizen-server-impl] Started resource qb-apartments
+[38;5;161m[    c-scripting-core] Creating script environments for qb-atms
+[38;5;73m[ citizen-server-impl] Started resource qb-atms
+[38;5;161m[    c-scripting-core] Creating script environments for qb-banking
+[38;5;73m[ citizen-server-impl] Started resource qb-banking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bankrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-bankrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-blackjack
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_f_y_casino_01.ytd uses 20.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_m_y_casino_01.ytd uses 20.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource qb-blackjack
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bossmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-bossmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-builderjob
+[38;5;73m[ citizen-server-impl] Started resource qb-builderjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-carwash
+[38;5;73m[ citizen-server-impl] Started resource qb-carwash
+[38;5;161m[    c-scripting-core] Creating script environments for qb-casino
+[38;5;73m[ citizen-server-impl] Started resource qb-casino
+[38;5;161m[    c-scripting-core] Creating script environments for qb-cityhall
+[38;5;73m[ citizen-server-impl] Started resource qb-cityhall
+[38;5;161m[    c-scripting-core] Creating script environments for qb-coke
+[38;5;73m[ citizen-server-impl] Started resource qb-coke
+[38;5;161m[    c-scripting-core] Creating script environments for qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource qb-crafting
+[38;5;73m[ citizen-server-impl] Started resource mhacking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-crypto
+[38;5;73m[ citizen-server-impl] Started resource qb-crypto
+[38;5;161m[    c-scripting-core] Creating script environments for qb-customs
+[38;5;73m[ citizen-server-impl] Started resource qb-customs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-diving
+[38;5;73m[ citizen-server-impl] Started resource qb-diving
+[38;5;161m[    c-scripting-core] Creating script environments for qb-doorlock
+[38;5;73m[ citizen-server-impl] Started resource qb-doorlock
+[38;5;161m[    c-scripting-core] Creating script environments for qb-fitbit
+[38;5;73m[ citizen-server-impl] Started resource qb-fitbit
+[38;5;161m[    c-scripting-core] Creating script environments for qb-gangmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-gangmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garages
+[38;5;73m[ citizen-server-impl] Started resource qb-garages
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garbagejob
+[38;5;73m[ citizen-server-impl] Started resource qb-garbagejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hotdogjob
+[38;5;73m[ citizen-server-impl] Started resource qb-hotdogjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houserobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-houserobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houses
+[38;5;73m[ citizen-server-impl] Started resource qb-houses
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hud
+[38;5;73m[ citizen-server-impl] Started resource qb-hud
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ifruitstore
+[38;5;73m[ citizen-server-impl] Started resource qb-ifruitstore
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weapons
+[38;5;73m[ citizen-server-impl] Started resource qb-weapons
+[38;5;161m[    c-scripting-core] Creating script environments for qb-inventory
+[38;5;73m[ citizen-server-impl] Started resource qb-inventory
+[38;5;161m[    c-scripting-core] Creating script environments for qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-keyminigame
+[38;5;161m[    c-scripting-core] Creating script environments for qb-lapraces
+[38;5;73m[ citizen-server-impl] Started resource qb-lapraces
+[38;5;161m[    c-scripting-core] Creating script environments for qb-lawyerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-lawyerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-lockpick
+[38;5;161m[    c-scripting-core] Creating script environments for qb-logs
+[38;5;73m[ citizen-server-impl] Started resource qb-logs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-mechanicjob
+[38;5;73m[ citizen-server-impl] Started resource qb-mechanicjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-methlab
+[38;5;73m[ citizen-server-impl] Started resource qb-methlab
+[38;5;161m[    c-scripting-core] Creating script environments for qb-spawn
+[38;5;73m[ citizen-server-impl] Started resource qb-spawn
+[38;5;161m[    c-scripting-core] Creating script environments for qb-multicharacter
+[38;5;73m[ citizen-server-impl] Started resource qb-multicharacter
+[38;5;161m[    c-scripting-core] Creating script environments for qb-newsjob
+[38;5;73m[ citizen-server-impl] Started resource qb-newsjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-oxyrun
+[38;5;73m[ citizen-server-impl] Started resource qb-oxyrun
+[38;5;161m[    c-scripting-core] Creating script environments for qb-pawnshop
+[38;5;73m[ citizen-server-impl] Started resource qb-pawnshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-policejob
+[38;5;73m[ citizen-server-impl] Started resource qb-policejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-prison
+[38;5;73m[ citizen-server-impl] Started resource qb-prison
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radialmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-radialmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-recyclejob
+[38;5;73m[ citizen-server-impl] Started resource qb-recyclejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scoreboard
+[38;5;73m[ citizen-server-impl] Started resource qb-scoreboard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scrapyard
+[38;5;73m[ citizen-server-impl] Started resource qb-scrapyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-shops
+[38;5;73m[ citizen-server-impl] Started resource qb-shops
+[38;5;161m[    c-scripting-core] Creating script environments for qb-skillbar
+[38;5;73m[ citizen-server-impl] Started resource qb-skillbar
+[38;5;161m[    c-scripting-core] Creating script environments for qb-smallresources
+[38;5;73m[ citizen-server-impl] Started resource qb-smallresources
+[38;5;161m[    c-scripting-core] Creating script environments for qb-storerobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-storerobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-streetraces
+[38;5;73m[ citizen-server-impl] Started resource qb-streetraces
+[38;5;161m[    c-scripting-core] Creating script environments for qb-taxijob
+[38;5;73m[ citizen-server-impl] Started resource qb-taxijob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-towjob
+[38;5;73m[ citizen-server-impl] Started resource qb-towjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-traphouse
+[38;5;73m[ citizen-server-impl] Started resource qb-traphouse
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-truckerjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-truckrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-tunerchip
+[38;5;73m[ citizen-server-impl] Started resource qb-tunerchip
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclefailure
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclefailure
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclekeys
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclekeys
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclepush
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclesales
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclesales
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehicleshop
+[38;5;73m[ citizen-server-impl] Started resource qb-vehicleshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vineyard
+[38;5;73m[ citizen-server-impl] Started resource qb-vineyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weed
+[38;5;73m[ citizen-server-impl] Started resource qb-weed
+[38;5;161m[    c-scripting-core] Creating script environments for LegacyFuel
+[38;5;73m[ citizen-server-impl] Started resource LegacyFuel
+[38;5;73m[ citizen-server-impl] Started resource bob74_ipl
+[38;5;161m[    c-scripting-core] Creating script environments for dpemotes
+[38;5;133m[     script:dpemotes] [dp] Sql Keybinding is turned off, if you want to enable /emotebind, import dpkeybinding.sql and set SqlKeybinding = true in config.lua.
+[38;5;73m[ citizen-server-impl] Started resource dpemotes
+[38;5;73m[ citizen-server-impl] Started resource safecracker
+[38;5;161m[    c-scripting-core] Creating script environments for pma-voice
+[38;5;73m[ citizen-server-impl] Started resource pma-voice
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radio
+[38;5;73m[ citizen-server-impl] Started resource qb-radio
+[38;5;66m[          svadhesive] Authenticating server license key...
+[38;5;77m[ script:ghmattimysql] [ghmattimysql] [SUCCESS] Database server connection established.
+[38;5;66m[          svadhesive] Server license key authentication succeeded. Welcome!
+[38;5;24m[   script:qb-methlab] Lab entry has been set to location: 1
+[38;5;84m[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 985 milliseconds
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [WARNING] [qb-weed] [930ms] SELECT * FROM house_plants : []
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [WARNING] [qb-weed] [935ms] SELECT * FROM house_plants : []
+[38;5;133m[     script:dpemotes] 
+[38;5;133m[     script:dpemotes] dp Emotes (dpemotes) is up to date. (173)
+[38;5;73m[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl]                                      
+[38;5;73m[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://tranqitb-444l7q.users.cfx.re/
+[38;5;73m[ citizen-server-impl] -- [server notice: tebex_not_set]
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] 
+[38;5;173m[ script:connectqueue] QUEUE: 🐳[license:bc5a2800df8ee519f725eabca276638c7983a5c9] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: 🐳[license:bc5a2800df8ee519f725eabca276638c7983a5c9] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] 🐳 has succesfully loaded!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["KKK99724",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5000,\"crypto\":0,\"cash\":500}","{\"phone\":\"1692116838\",\"account\":\"US01QBCore9848747473\",\"backstory\":\"placeholder backstory\",\"firstname\":\"test\",\"birthdate\":\"2000-12-02\",\"gender\":0,\"cid\":\"1\",\"lastname\":\"etest\",\"nationality\":\"a123\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"onduty\":true,\"payment\":10,\"name\":\"unemployed\",\"isboss\":false}","{\"label\":\"No Gang Affiliaton\",\"grade\":{\"name\":\"none\",\"level\":0},\"name\":\"none\",\"isboss\":false}","{\"x\":-1035.7099609375,\"y\":-2731.8701171875,\"z\":12.85999965667724,\"w\":0.0}","{\"criminalrecord\":{\"hasRecord\":false},\"thirst\":100,\"licences\":{\"weapon\":false,\"driver\":true,\"business\":false},\"inlaststand\":false,\"bloodtype\":\"B+\",\"jailitems\":[],\"armor\":0,\"phonedata\":{\"SerialNumber\":95039436,\"InstalledApps\":[]},\"injail\":0,\"fingerprint\":\"ZH773D76Pqo6008\",\"dealerrep\":0,\"hunger\":100,\"tracker\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"stress\":0,\"fitbit\":[],\"callsign\":\"NO CALLSIGN\",\"jobrep\":{\"hotdog\":0,\"tow\":0,\"taxi\":0,\"trucker\":0},\"isdead\":false,\"phone\":[],\"craftingrep\":0,\"status\":[],\"attachmentcraftingrep\":0,\"walletid\":\"QB-84179559\",\"ishandcuffed\":false}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;134m[      script:qb-core] Dropped: 🐳
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["KKK99724",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"bank\":5000,\"crypto\":0,\"cash\":500}","{\"phone\":\"1692116838\",\"account\":\"US01QBCore9848747473\",\"backstory\":\"placeholder backstory\",\"firstname\":\"test\",\"birthdate\":\"2000-12-02\",\"gender\":0,\"cid\":\"1\",\"lastname\":\"etest\",\"nationality\":\"a123\"}","{\"label\":\"Civilian\",\"grade\":{\"name\":\"Freelancer\",\"level\":0},\"onduty\":true,\"payment\":10,\"name\":\"unemployed\",\"isboss\":false}","{\"label\":\"No Gang Affiliaton\",\"grade\":{\"name\":\"none\",\"level\":0},\"name\":\"none\",\"isboss\":false}","{\"z\":40.74067306518555,\"w\":63.97684097290039,\"x\":257.3131103515625,\"y\":-635.0183715820313}","{\"criminalrecord\":{\"hasRecord\":false},\"thirst\":100,\"licences\":{\"weapon\":false,\"driver\":true,\"business\":false},\"inlaststand\":false,\"bloodtype\":\"B+\",\"jailitems\":[],\"ishandcuffed\":false,\"armor\":0,\"phonedata\":{\"SerialNumber\":95039436,\"InstalledApps\":[]},\"injail\":0,\"fingerprint\":\"ZH773D76Pqo6008\",\"dealerrep\":0,\"hunger\":100,\"tracker\":false,\"commandbinds\":[],\"inside\":{\"apartment\":[]},\"stress\":0,\"fitbit\":[],\"callsign\":\"NO CALLSIGN\",\"jobrep\":{\"hotdog\":0,\"tow\":0,\"taxi\":0,\"trucker\":0},\"isdead\":false,\"phone\":[],\"craftingrep\":0,\"status\":[],\"attachmentcraftingrep\":0,\"walletid\":\"QB-84179559\",\"currentapartment\":\"apartment34427\"}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+
+================================================================
+======== FXServer starting - 22.8.2021, 01:54:34
+================================================================
+[38;5;161m[    c-scripting-core] Creating script environments for _cfx_internal
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 98 resources.
+[38;5;161m[    c-scripting-core] Creating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] Started resource sessionmanager
+[38;5;161m[    c-scripting-core] Creating script environments for monitor
+[38;5;84m[      script:monitor] [txAdminClient] Version 4.4.2 starting...
+[38;5;73m[ citizen-server-impl] Started resource monitor
+[38;5;78m[              cmdsys] No such command +setr.
+[38;5;161m[    c-scripting-core] Creating script environments for mapmanager
+[38;5;73m[ citizen-server-impl] Started resource mapmanager
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[38;5;73m[ citizen-server-impl] Started resource yarn
+[38;5;161m[    c-scripting-core] Creating script environments for webpack
+[38;5;73m[ citizen-server-impl] Started resource webpack
+[38;5;161m[    c-scripting-core] Creating script environments for chat
+[38;5;73m[ citizen-server-impl] Started resource chat
+[38;5;73m[ citizen-server-impl] Started resource spawnmanager
+[38;5;154m[   script:mapmanager] Started gametype Freeroam
+[38;5;73m[ citizen-server-impl] Started resource basic-gamemode
+[38;5;161m[    c-scripting-core] Creating script environments for hardcap
+[38;5;73m[ citizen-server-impl] Started resource hardcap
+[38;5;161m[    c-scripting-core] Creating script environments for baseevents
+[38;5;73m[ citizen-server-impl] Started resource baseevents
+[38;5;73m[ citizen-server-impl] Started resource progressbar
+[38;5;161m[    c-scripting-core] Creating script environments for connectqueue
+[38;5;173m[ script:connectqueue] QUEUE:  [connectqueue] Disabling hardcap 
+[38;5;73m[ citizen-server-impl] Stopping resource hardcap
+[38;5;73m[ citizen-server-impl] Started resource connectqueue
+[38;5;161m[    c-scripting-core] Creating script environments for ghmattimysql
+[38;5;73m[ citizen-server-impl] Started resource ghmattimysql
+[38;5;161m[    c-scripting-core] Creating script environments for qb-core
+[38;5;73m[ citizen-server-impl] Started resource qb-core
+[38;5;73m[ citizen-server-impl] Started resource menuv
+[38;5;161m[    c-scripting-core] Creating script environments for qb-drugs
+[38;5;73m[ citizen-server-impl] Started resource qb-drugs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-adminmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-adminmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-afk
+[38;5;73m[ citizen-server-impl] Started resource qb-afk
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ambulancejob
+[38;5;73m[ citizen-server-impl] Started resource qb-ambulancejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-anticheat
+[38;5;73m[ citizen-server-impl] Started resource qb-anticheat
+[38;5;73m[ citizen-server-impl] Asset qb-interior/frankelientje.ydr uses 27.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-interior/methlab_shell.ytd uses 23.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-interior/micheal_shell.ydr uses 30.5 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource qb-interior
+[38;5;161m[    c-scripting-core] Creating script environments for qb-clothing
+[38;5;73m[ citizen-server-impl] Started resource qb-clothing
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weathersync
+[38;5;73m[ citizen-server-impl] Started resource qb-weathersync
+[38;5;161m[    c-scripting-core] Creating script environments for qb-apartments
+[38;5;73m[ citizen-server-impl] Started resource qb-apartments
+[38;5;161m[    c-scripting-core] Creating script environments for qb-atms
+[38;5;73m[ citizen-server-impl] Started resource qb-atms
+[38;5;161m[    c-scripting-core] Creating script environments for qb-banking
+[38;5;73m[ citizen-server-impl] Started resource qb-banking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bankrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-bankrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-blackjack
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_f_y_casino_01.ytd uses 20.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_m_y_casino_01.ytd uses 20.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource qb-blackjack
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bossmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-bossmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-builderjob
+[38;5;73m[ citizen-server-impl] Started resource qb-builderjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-carwash
+[38;5;73m[ citizen-server-impl] Started resource qb-carwash
+[38;5;161m[    c-scripting-core] Creating script environments for qb-casino
+[38;5;73m[ citizen-server-impl] Started resource qb-casino
+[38;5;161m[    c-scripting-core] Creating script environments for qb-cityhall
+[38;5;73m[ citizen-server-impl] Started resource qb-cityhall
+[38;5;161m[    c-scripting-core] Creating script environments for qb-coke
+[38;5;73m[ citizen-server-impl] Started resource qb-coke
+[38;5;161m[    c-scripting-core] Creating script environments for qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource qb-crafting
+[38;5;73m[ citizen-server-impl] Started resource mhacking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-crypto
+[38;5;73m[ citizen-server-impl] Started resource qb-crypto
+[38;5;161m[    c-scripting-core] Creating script environments for qb-customs
+[38;5;73m[ citizen-server-impl] Started resource qb-customs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-diving
+[38;5;73m[ citizen-server-impl] Started resource qb-diving
+[38;5;161m[    c-scripting-core] Creating script environments for qb-doorlock
+[38;5;73m[ citizen-server-impl] Started resource qb-doorlock
+[38;5;161m[    c-scripting-core] Creating script environments for qb-fitbit
+[38;5;73m[ citizen-server-impl] Started resource qb-fitbit
+[38;5;161m[    c-scripting-core] Creating script environments for qb-gangmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-gangmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garages
+[38;5;73m[ citizen-server-impl] Started resource qb-garages
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garbagejob
+[38;5;73m[ citizen-server-impl] Started resource qb-garbagejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hotdogjob
+[38;5;73m[ citizen-server-impl] Started resource qb-hotdogjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houserobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-houserobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houses
+[38;5;73m[ citizen-server-impl] Started resource qb-houses
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hud
+[38;5;73m[ citizen-server-impl] Started resource qb-hud
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ifruitstore
+[38;5;73m[ citizen-server-impl] Started resource qb-ifruitstore
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weapons
+[38;5;73m[ citizen-server-impl] Started resource qb-weapons
+[38;5;161m[    c-scripting-core] Creating script environments for qb-inventory
+[38;5;73m[ citizen-server-impl] Started resource qb-inventory
+[38;5;161m[    c-scripting-core] Creating script environments for qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-keyminigame
+[38;5;161m[    c-scripting-core] Creating script environments for qb-lapraces
+[38;5;73m[ citizen-server-impl] Started resource qb-lapraces
+[38;5;161m[    c-scripting-core] Creating script environments for qb-lawyerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-lawyerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-lockpick
+[38;5;161m[    c-scripting-core] Creating script environments for qb-logs
+[38;5;73m[ citizen-server-impl] Started resource qb-logs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-mechanicjob
+[38;5;73m[ citizen-server-impl] Started resource qb-mechanicjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-methlab
+[38;5;73m[ citizen-server-impl] Started resource qb-methlab
+[38;5;161m[    c-scripting-core] Creating script environments for qb-spawn
+[38;5;73m[ citizen-server-impl] Started resource qb-spawn
+[38;5;161m[    c-scripting-core] Creating script environments for qb-multicharacter
+[38;5;73m[ citizen-server-impl] Started resource qb-multicharacter
+[38;5;161m[    c-scripting-core] Creating script environments for qb-newsjob
+[38;5;73m[ citizen-server-impl] Started resource qb-newsjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-oxyrun
+[38;5;73m[ citizen-server-impl] Started resource qb-oxyrun
+[38;5;161m[    c-scripting-core] Creating script environments for qb-pawnshop
+[38;5;73m[ citizen-server-impl] Started resource qb-pawnshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-policejob
+[38;5;73m[ citizen-server-impl] Started resource qb-policejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-prison
+[38;5;73m[ citizen-server-impl] Started resource qb-prison
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radialmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-radialmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-recyclejob
+[38;5;73m[ citizen-server-impl] Started resource qb-recyclejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scoreboard
+[38;5;73m[ citizen-server-impl] Started resource qb-scoreboard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scrapyard
+[38;5;73m[ citizen-server-impl] Started resource qb-scrapyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-shops
+[38;5;73m[ citizen-server-impl] Started resource qb-shops
+[38;5;161m[    c-scripting-core] Creating script environments for qb-skillbar
+[38;5;73m[ citizen-server-impl] Started resource qb-skillbar
+[38;5;161m[    c-scripting-core] Creating script environments for qb-smallresources
+[38;5;73m[ citizen-server-impl] Started resource qb-smallresources
+[38;5;161m[    c-scripting-core] Creating script environments for qb-storerobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-storerobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-streetraces
+[38;5;73m[ citizen-server-impl] Started resource qb-streetraces
+[38;5;161m[    c-scripting-core] Creating script environments for qb-taxijob
+[38;5;73m[ citizen-server-impl] Started resource qb-taxijob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-towjob
+[38;5;73m[ citizen-server-impl] Started resource qb-towjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-traphouse
+[38;5;73m[ citizen-server-impl] Started resource qb-traphouse
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-truckerjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-truckrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-tunerchip
+[38;5;73m[ citizen-server-impl] Started resource qb-tunerchip
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclefailure
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclefailure
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclekeys
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclekeys
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclepush
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclesales
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclesales
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehicleshop
+[38;5;73m[ citizen-server-impl] Started resource qb-vehicleshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vineyard
+[38;5;73m[ citizen-server-impl] Started resource qb-vineyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weed
+[38;5;73m[ citizen-server-impl] Started resource qb-weed
+[38;5;161m[    c-scripting-core] Creating script environments for LegacyFuel
+[38;5;73m[ citizen-server-impl] Started resource LegacyFuel
+[38;5;73m[ citizen-server-impl] Started resource bob74_ipl
+[38;5;161m[    c-scripting-core] Creating script environments for dpemotes
+[38;5;133m[     script:dpemotes] [dp] Sql Keybinding is turned off, if you want to enable /emotebind, import dpkeybinding.sql and set SqlKeybinding = true in config.lua.
+[38;5;73m[ citizen-server-impl] Started resource dpemotes
+[38;5;73m[ citizen-server-impl] Started resource safecracker
+[38;5;161m[    c-scripting-core] Creating script environments for pma-voice
+[38;5;73m[ citizen-server-impl] Started resource pma-voice
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radio
+[38;5;73m[ citizen-server-impl] Started resource qb-radio
+[38;5;66m[          svadhesive] Authenticating server license key...
+[38;5;77m[ script:ghmattimysql] [ghmattimysql] [SUCCESS] Database server connection established.
+[38;5;66m[          svadhesive] Server license key authentication succeeded. Welcome!
+[38;5;24m[   script:qb-methlab] Lab entry has been set to location: 1
+[38;5;84m[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 983 milliseconds
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [WARNING] [qb-weed] [932ms] SELECT * FROM house_plants : []
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [WARNING] [qb-weed] [935ms] SELECT * FROM house_plants : []
+[38;5;133m[     script:dpemotes] 
+[38;5;133m[     script:dpemotes] dp Emotes (dpemotes) is up to date. (173)
+[38;5;73m[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl]                                      
+[38;5;73m[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://tranqitb-444l7q.users.cfx.re/
+[38;5;73m[ citizen-server-impl] -- [server notice: tebex_not_set]
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] 
+[38;5;173m[ script:connectqueue] QUEUE: 🐳[license:bc5a2800df8ee519f725eabca276638c7983a5c9] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: 🐳[license:bc5a2800df8ee519f725eabca276638c7983a5c9] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] 🐳 has succesfully loaded!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["QPT17481",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"crypto\":0,\"cash\":500,\"bank\":5000}","{\"firstname\":\"Tranqi\",\"phone\":\"1679037262\",\"gender\":0,\"backstory\":\"placeholder backstory\",\"nationality\":\"Japanese\",\"account\":\"US06QBCore9105405279\",\"birthdate\":\"2001-12-02\",\"lastname\":\"Escobar\",\"cid\":\"1\"}","{\"onduty\":true,\"isboss\":false,\"payment\":10,\"label\":\"Civilian\",\"grade\":{\"level\":0,\"name\":\"Freelancer\"},\"name\":\"unemployed\"}","{\"label\":\"No Gang Affiliaton\",\"isboss\":false,\"grade\":{\"level\":0,\"name\":\"none\"},\"name\":\"none\"}","{\"x\":-1035.7099609375,\"y\":-2731.8701171875,\"z\":12.85999965667724,\"w\":0.0}","{\"thirst\":100,\"armor\":0,\"callsign\":\"NO CALLSIGN\",\"status\":[],\"licences\":{\"business\":false,\"weapon\":false,\"driver\":true},\"injail\":0,\"phonedata\":{\"SerialNumber\":47726816,\"InstalledApps\":[]},\"inside\":{\"apartment\":[]},\"jailitems\":[],\"phone\":[],\"fingerprint\":\"KG641q01Qcm9142\",\"bloodtype\":\"A+\",\"jobrep\":{\"trucker\":0,\"taxi\":0,\"hotdog\":0,\"tow\":0},\"ishandcuffed\":false,\"craftingrep\":0,\"commandbinds\":[],\"tracker\":false,\"stress\":0,\"fitbit\":[],\"attachmentcraftingrep\":0,\"inlaststand\":false,\"dealerrep\":0,\"criminalrecord\":{\"hasRecord\":false},\"walletid\":\"QB-15103464\",\"hunger\":100,\"isdead\":false}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["QPT17481",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"crypto\":0,\"cash\":500,\"bank\":5000}","{\"firstname\":\"Tranqi\",\"phone\":\"1679037262\",\"gender\":0,\"backstory\":\"placeholder backstory\",\"nationality\":\"Japanese\",\"account\":\"US06QBCore9105405279\",\"birthdate\":\"2001-12-02\",\"lastname\":\"Escobar\",\"cid\":\"1\"}","{\"onduty\":true,\"isboss\":false,\"payment\":10,\"label\":\"Civilian\",\"grade\":{\"level\":0,\"name\":\"Freelancer\"},\"name\":\"unemployed\"}","{\"label\":\"No Gang Affiliaton\",\"isboss\":false,\"grade\":{\"level\":0,\"name\":\"none\"},\"name\":\"none\"}","{\"z\":29.13727951049804,\"w\":194.79946899414063,\"x\":412.66595458984377,\"y\":-815.4550170898438}","{\"thirst\":96.19999999999982,\"armor\":0,\"callsign\":\"NO CALLSIGN\",\"status\":[],\"licences\":{\"business\":false,\"weapon\":false,\"driver\":true},\"injail\":0,\"currentapartment\":\"apartment35999\",\"phonedata\":{\"SerialNumber\":47726816,\"InstalledApps\":[]},\"inside\":{\"apartment\":[]},\"jailitems\":[],\"phone\":[],\"fingerprint\":\"KG641q01Qcm9142\",\"bloodtype\":\"A+\",\"jobrep\":{\"trucker\":0,\"taxi\":0,\"hotdog\":0,\"tow\":0},\"ishandcuffed\":false,\"craftingrep\":0,\"commandbinds\":[],\"tracker\":false,\"stress\":0,\"fitbit\":[],\"attachmentcraftingrep\":0,\"inlaststand\":false,\"dealerrep\":0,\"criminalrecord\":{\"hasRecord\":false},\"walletid\":\"QB-15103464\",\"hunger\":95.79999999999927,\"isdead\":false}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;173m[ script:connectqueue] QUEUE: ................................[license:c16c5fdb52a2f4616e35fcbc630453b3bd5a3478] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: ................................[license:c16c5fdb52a2f4616e35fcbc630453b3bd5a3478] is loading into the server
+[38;5;173m[ script:connectqueue] QUEUE: 7[license:8de31822d7130d4329dc8a69b7b982a3eb6dab1a] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: 7[license:8de31822d7130d4329dc8a69b7b982a3eb6dab1a] is loading into the server
+[38;5;173m[ script:connectqueue] QUEUE: 😈🖕🏻Tom[license:fb8a136d286ef2ecc4bb679cc3336d2a6f212ab3] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: 😈🖕🏻Tom[license:fb8a136d286ef2ecc4bb679cc3336d2a6f212ab3] is loading into the server
+[38;5;173m[ script:connectqueue] QUEUE: 😈🖕🏻Tom[license:fb8a136d286ef2ecc4bb679cc3336d2a6f212ab3] was placed 1/1 in queue
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["QPT17481",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"crypto\":0,\"cash\":250.0,\"bank\":5010}","{\"firstname\":\"Tranqi\",\"phone\":\"1679037262\",\"gender\":0,\"backstory\":\"placeholder backstory\",\"nationality\":\"Japanese\",\"account\":\"US06QBCore9105405279\",\"birthdate\":\"2001-12-02\",\"lastname\":\"Escobar\",\"cid\":\"1\"}","{\"onduty\":true,\"isboss\":false,\"payment\":10,\"label\":\"Civilian\",\"grade\":{\"level\":0,\"name\":\"Freelancer\"},\"name\":\"unemployed\"}","{\"label\":\"No Gang Affiliaton\",\"isboss\":false,\"grade\":{\"level\":0,\"name\":\"none\"},\"name\":\"none\"}","{\"z\":29.18605232238769,\"w\":100.56988525390625,\"x\":24.01414489746093,\"y\":-1121.16015625}","{\"thirst\":92.39999999999964,\"armor\":0,\"callsign\":\"NO CALLSIGN\",\"status\":[],\"licences\":{\"business\":false,\"weapon\":false,\"driver\":true},\"injail\":0,\"currentapartment\":\"apartment35999\",\"phonedata\":{\"SerialNumber\":47726816,\"InstalledApps\":[]},\"inside\":{\"apartment\":[]},\"jailitems\":[],\"phone\":[],\"fingerprint\":\"KG641q01Qcm9142\",\"bloodtype\":\"A+\",\"jobrep\":{\"trucker\":0,\"taxi\":0,\"hotdog\":0,\"tow\":0},\"ishandcuffed\":false,\"craftingrep\":0,\"commandbinds\":[],\"tracker\":false,\"stress\":0,\"fitbit\":[],\"attachmentcraftingrep\":0,\"inlaststand\":false,\"dealerrep\":0,\"criminalrecord\":{\"hasRecord\":false},\"walletid\":\"QB-15103464\",\"hunger\":91.59999999999855,\"isdead\":false}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;134m[      script:qb-core] [qb-core:LOG] ................................ PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] ................................ has succesfully loaded!
+[38;5;173m[ script:connectqueue] QUEUE: 7[license:8de31822d7130d4329dc8a69b7b982a3eb6dab1a] was placed 1/1 in queue
+[38;5;134m[      script:qb-core] [qb-core:LOG] 7 PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] 7 has succesfully loaded!
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["QPT17481",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"crypto\":0,\"cash\":250.0,\"bank\":5010}","{\"firstname\":\"Tranqi\",\"phone\":\"1679037262\",\"gender\":0,\"backstory\":\"placeholder backstory\",\"nationality\":\"Japanese\",\"account\":\"US06QBCore9105405279\",\"birthdate\":\"2001-12-02\",\"lastname\":\"Escobar\",\"cid\":\"1\"}","{\"onduty\":true,\"isboss\":false,\"payment\":10,\"label\":\"Civilian\",\"grade\":{\"level\":0,\"name\":\"Freelancer\"},\"name\":\"unemployed\"}","{\"label\":\"No Gang Affiliaton\",\"isboss\":false,\"grade\":{\"level\":0,\"name\":\"none\"},\"name\":\"none\"}","{\"z\":39.73329925537109,\"w\":96.92805480957031,\"x\":-162.40444946289063,\"y\":-303.84759521484377}","{\"thirst\":88.59999999999946,\"armor\":0,\"callsign\":\"NO CALLSIGN\",\"status\":[],\"licences\":{\"business\":false,\"weapon\":false,\"driver\":true},\"injail\":0,\"currentapartment\":\"apartment35999\",\"phonedata\":{\"SerialNumber\":47726816,\"InstalledApps\":[]},\"inside\":{\"apartment\":[]},\"jailitems\":[],\"phone\":[],\"fingerprint\":\"KG641q01Qcm9142\",\"bloodtype\":\"A+\",\"jobrep\":{\"trucker\":0,\"taxi\":0,\"hotdog\":0,\"tow\":0},\"ishandcuffed\":false,\"craftingrep\":0,\"commandbinds\":[],\"tracker\":false,\"stress\":0,\"fitbit\":[],\"attachmentcraftingrep\":0,\"inlaststand\":false,\"dealerrep\":0,\"criminalrecord\":{\"hasRecord\":false},\"walletid\":\"QB-15103464\",\"hunger\":87.39999999999782,\"isdead\":false}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;134m[      script:qb-core] [qb-core:LOG] 😈🖕🏻Tom PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] 😈🖕🏻Tom has succesfully loaded!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["PMT25112",4,"license:fb8a136d286ef2ecc4bb679cc3336d2a6f212ab3","😈🖕🏻Tom","{\"crypto\":0,\"cash\":500,\"bank\":5000}","{\"firstname\":\"SAGGY\",\"phone\":\"1842107707\",\"gender\":0,\"backstory\":\"placeholder backstory\",\"nationality\":\"country\",\"account\":\"US07QBCore4195767383\",\"birthdate\":\"2007-01-05\",\"lastname\":\"BALLS\",\"cid\":\"4\"}","{\"onduty\":true,\"isboss\":false,\"payment\":10,\"label\":\"Civilian\",\"grade\":{\"level\":0,\"name\":\"Freelancer\"},\"name\":\"unemployed\"}","{\"label\":\"No Gang Affiliaton\",\"isboss\":false,\"grade\":{\"level\":0,\"name\":\"none\"},\"name\":\"none\"}","{\"x\":-1035.7099609375,\"y\":-2731.8701171875,\"z\":12.85999965667724,\"w\":0.0}","{\"thirst\":100,\"armor\":0,\"callsign\":\"NO CALLSIGN\",\"status\":[],\"licences\":{\"business\":false,\"weapon\":false,\"driver\":true},\"injail\":0,\"phonedata\":{\"SerialNumber\":24596124,\"InstalledApps\":[]},\"inside\":{\"apartment\":[]},\"jailitems\":[],\"phone\":[],\"fingerprint\":\"Zh862Z35aiw6053\",\"bloodtype\":\"B-\",\"jobrep\":{\"trucker\":0,\"taxi\":0,\"hotdog\":0,\"tow\":0},\"ishandcuffed\":false,\"craftingrep\":0,\"commandbinds\":[],\"tracker\":false,\"stress\":0,\"fitbit\":[],\"attachmentcraftingrep\":0,\"inlaststand\":false,\"dealerrep\":0,\"criminalrecord\":{\"hasRecord\":false},\"walletid\":\"QB-50730938\",\"hunger\":100,\"isdead\":false}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x88\xF0\x9F...' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;134m[      script:qb-core] [qb-core:LOG] ................................ PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] 7 PLAYER SAVED!
+[38;5;134m[      script:qb-core] Dropped: 🐳
+[38;5;134m[      script:qb-core] [qb-core:LOG] 🐳 PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["QPT17481",1,"license:bc5a2800df8ee519f725eabca276638c7983a5c9","🐳","{\"crypto\":0,\"cash\":250.0,\"bank\":5020}","{\"firstname\":\"Tranqi\",\"phone\":\"1679037262\",\"gender\":0,\"backstory\":\"placeholder backstory\",\"nationality\":\"Japanese\",\"account\":\"US06QBCore9105405279\",\"birthdate\":\"2001-12-02\",\"lastname\":\"Escobar\",\"cid\":\"1\"}","{\"onduty\":true,\"isboss\":false,\"payment\":10,\"label\":\"Civilian\",\"grade\":{\"level\":0,\"name\":\"Freelancer\"},\"name\":\"unemployed\"}","{\"label\":\"No Gang Affiliaton\",\"isboss\":false,\"grade\":{\"level\":0,\"name\":\"none\"},\"name\":\"none\"}","{\"z\":43.86771011352539,\"w\":350.3556213378906,\"x\":-128.7576904296875,\"y\":-251.66043090820313}","{\"thirst\":88.59999999999946,\"armor\":0,\"callsign\":\"NO CALLSIGN\",\"status\":[],\"licences\":{\"business\":false,\"weapon\":false,\"driver\":true},\"injail\":0,\"currentapartment\":\"apartment35999\",\"phonedata\":{\"SerialNumber\":47726816,\"InstalledApps\":[]},\"inside\":{\"apartment\":[]},\"jailitems\":[],\"phone\":[],\"fingerprint\":\"KG641q01Qcm9142\",\"bloodtype\":\"A+\",\"jobrep\":{\"trucker\":0,\"taxi\":0,\"hotdog\":0,\"tow\":0},\"ishandcuffed\":false,\"craftingrep\":0,\"commandbinds\":[],\"tracker\":false,\"stress\":0,\"fitbit\":[],\"attachmentcraftingrep\":0,\"inlaststand\":false,\"dealerrep\":0,\"criminalrecord\":{\"hasRecord\":false},\"walletid\":\"QB-15103464\",\"hunger\":87.39999999999782,\"isdead\":false}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x90\xB3' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;78m[              cmdsys] No such command revive.
+[38;5;134m[      script:qb-core] [qb-core:LOG] 😈🖕🏻Tom PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["PMT25112",4,"license:fb8a136d286ef2ecc4bb679cc3336d2a6f212ab3","😈🖕🏻Tom","{\"crypto\":0,\"cash\":500,\"bank\":5010}","{\"firstname\":\"SAGGY\",\"phone\":\"1842107707\",\"gender\":0,\"backstory\":\"placeholder backstory\",\"nationality\":\"country\",\"account\":\"US07QBCore4195767383\",\"birthdate\":\"2007-01-05\",\"lastname\":\"BALLS\",\"cid\":\"4\"}","{\"onduty\":true,\"isboss\":false,\"payment\":10,\"label\":\"Civilian\",\"grade\":{\"level\":0,\"name\":\"Freelancer\"},\"name\":\"unemployed\"}","{\"label\":\"No Gang Affiliaton\",\"isboss\":false,\"grade\":{\"level\":0,\"name\":\"none\"},\"name\":\"none\"}","{\"z\":29.53207015991211,\"w\":67.44243621826172,\"x\":243.95364379882813,\"y\":-859.1705322265625}","{\"thirst\":96.19999999999982,\"armor\":0,\"callsign\":\"NO CALLSIGN\",\"status\":[],\"licences\":{\"business\":false,\"weapon\":false,\"driver\":true},\"injail\":0,\"currentapartment\":\"apartment31745\",\"phonedata\":{\"SerialNumber\":24596124,\"InstalledApps\":[]},\"inside\":{\"apartment\":[]},\"jailitems\":[],\"phone\":[],\"fingerprint\":\"Zh862Z35aiw6053\",\"bloodtype\":\"B-\",\"jobrep\":{\"trucker\":0,\"taxi\":0,\"hotdog\":0,\"tow\":0},\"ishandcuffed\":false,\"craftingrep\":0,\"commandbinds\":[],\"tracker\":false,\"stress\":0,\"fitbit\":[],\"attachmentcraftingrep\":0,\"inlaststand\":true,\"dealerrep\":0,\"criminalrecord\":{\"hasRecord\":false},\"walletid\":\"QB-50730938\",\"hunger\":95.79999999999927,\"isdead\":false}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x88\xF0\x9F...' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;134m[      script:qb-core] [qb-core:LOG] ................................ PLAYER SAVED!
+[38;5;134m[      script:qb-core] Dropped: ................................
+[38;5;134m[      script:qb-core] [qb-core:LOG] ................................ PLAYER SAVED!
+[38;5;134m[      script:qb-core] Dropped: 😈🖕🏻Tom
+[38;5;134m[      script:qb-core] [qb-core:LOG] 😈🖕🏻Tom PLAYER SAVED!
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [ERROR] [qb-core] An error happens for query "INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) : ["PMT25112",4,"license:fb8a136d286ef2ecc4bb679cc3336d2a6f212ab3","😈🖕🏻Tom","{\"crypto\":0,\"cash\":500,\"bank\":5010}","{\"firstname\":\"SAGGY\",\"phone\":\"1842107707\",\"gender\":0,\"backstory\":\"placeholder backstory\",\"nationality\":\"country\",\"account\":\"US07QBCore4195767383\",\"birthdate\":\"2007-01-05\",\"lastname\":\"BALLS\",\"cid\":\"4\"}","{\"onduty\":true,\"isboss\":false,\"payment\":10,\"label\":\"Civilian\",\"grade\":{\"level\":0,\"name\":\"Freelancer\"},\"name\":\"unemployed\"}","{\"label\":\"No Gang Affiliaton\",\"isboss\":false,\"grade\":{\"level\":0,\"name\":\"none\"},\"name\":\"none\"}","{\"z\":29.53207015991211,\"w\":67.44243621826172,\"x\":243.95364379882813,\"y\":-859.1705322265625}","{\"thirst\":96.19999999999982,\"armor\":0,\"callsign\":\"NO CALLSIGN\",\"status\":[],\"licences\":{\"business\":false,\"weapon\":false,\"driver\":true},\"injail\":0,\"currentapartment\":\"apartment31745\",\"phonedata\":{\"SerialNumber\":24596124,\"InstalledApps\":[]},\"inside\":{\"apartment\":[]},\"jailitems\":[],\"phone\":[],\"fingerprint\":\"Zh862Z35aiw6053\",\"bloodtype\":\"B-\",\"jobrep\":{\"trucker\":0,\"taxi\":0,\"hotdog\":0,\"tow\":0},\"ishandcuffed\":false,\"craftingrep\":0,\"commandbinds\":[],\"tracker\":false,\"stress\":0,\"fitbit\":[],\"attachmentcraftingrep\":0,\"inlaststand\":true,\"dealerrep\":0,\"criminalrecord\":{\"hasRecord\":false},\"walletid\":\"QB-50730938\",\"hunger\":95.79999999999927,\"isdead\":false}"]": ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x88\xF0\x9F...' for column `zap735995-1`.`players`.`name` at row 1
+[38;5;173m[ script:connectqueue] QUEUE: Tranqi[license:bc5a2800df8ee519f725eabca276638c7983a5c9] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: Tranqi[license:bc5a2800df8ee519f725eabca276638c7983a5c9] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] Tranqi PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] Tranqi has succesfully loaded!
+[38;5;134m[      script:qb-core] [qb-core:LOG] 7 PLAYER SAVED!
+[38;5;134m[      script:qb-core] Dropped: Tranqi
+[38;5;134m[      script:qb-core] [qb-core:LOG] Tranqi PLAYER SAVED!
+[38;5;134m[      script:qb-core] Dropped: 7
+[38;5;134m[      script:qb-core] [qb-core:LOG] 7 PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: 7[license:8de31822d7130d4329dc8a69b7b982a3eb6dab1a] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: 7[license:8de31822d7130d4329dc8a69b7b982a3eb6dab1a] is loading into the server
+[38;5;173m[ script:connectqueue] QUEUE: 7[license:8de31822d7130d4329dc8a69b7b982a3eb6dab1a] was removed from the connecting queue because they timed out
+
+
+=================================================================
+FXServer crashed.
+A dump can be found at /home/zap735995/g361830/gta5-fivem-txadmin/alpine/opt/cfx-server/crashes/8cf45196-6da9-44a6-79ad479a-6614d16f.dmp.
+
+================================================================
+======== FXServer starting - 22.8.2021, 02:51:50
+================================================================
+[38;5;161m[    c-scripting-core] Creating script environments for _cfx_internal
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 99 resources.
+[38;5;161m[    c-scripting-core] Creating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] Started resource sessionmanager
+[38;5;161m[    c-scripting-core] Creating script environments for monitor
+[38;5;84m[      script:monitor] [txAdminClient] Version 4.4.2 starting...
+[38;5;73m[ citizen-server-impl] Started resource monitor
+[38;5;78m[              cmdsys] No such command +setr.
+[38;5;161m[    c-scripting-core] Creating script environments for mapmanager
+[38;5;73m[ citizen-server-impl] Started resource mapmanager
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[38;5;73m[ citizen-server-impl] Started resource yarn
+[38;5;161m[    c-scripting-core] Creating script environments for webpack
+[38;5;73m[ citizen-server-impl] Started resource webpack
+[38;5;161m[    c-scripting-core] Creating script environments for chat
+[38;5;73m[ citizen-server-impl] Started resource chat
+[38;5;73m[ citizen-server-impl] Started resource spawnmanager
+[38;5;154m[   script:mapmanager] Started gametype Freeroam
+[38;5;73m[ citizen-server-impl] Started resource basic-gamemode
+[38;5;161m[    c-scripting-core] Creating script environments for hardcap
+[38;5;73m[ citizen-server-impl] Started resource hardcap
+[38;5;161m[    c-scripting-core] Creating script environments for baseevents
+[38;5;73m[ citizen-server-impl] Started resource baseevents
+[38;5;73m[ citizen-server-impl] Started resource progressbar
+[38;5;161m[    c-scripting-core] Creating script environments for connectqueue
+[38;5;173m[ script:connectqueue] QUEUE:  [connectqueue] Disabling hardcap 
+[38;5;73m[ citizen-server-impl] Stopping resource hardcap
+[38;5;73m[ citizen-server-impl] Started resource connectqueue
+[38;5;161m[    c-scripting-core] Creating script environments for ghmattimysql
+[38;5;73m[ citizen-server-impl] Started resource ghmattimysql
+[38;5;161m[    c-scripting-core] Creating script environments for qb-core
+[38;5;73m[ citizen-server-impl] Started resource qb-core
+[38;5;73m[ citizen-server-impl] Started resource menuv
+[38;5;161m[    c-scripting-core] Creating script environments for qb-drugs
+[38;5;73m[ citizen-server-impl] Started resource qb-drugs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-adminmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-adminmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-afk
+[38;5;73m[ citizen-server-impl] Started resource qb-afk
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ambulancejob
+[38;5;73m[ citizen-server-impl] Started resource qb-ambulancejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-anticheat
+[38;5;73m[ citizen-server-impl] Started resource qb-anticheat
+[38;5;73m[ citizen-server-impl] Asset qb-interior/frankelientje.ydr uses 27.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-interior/methlab_shell.ytd uses 23.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-interior/micheal_shell.ydr uses 30.5 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource qb-interior
+[38;5;161m[    c-scripting-core] Creating script environments for qb-clothing
+[38;5;73m[ citizen-server-impl] Started resource qb-clothing
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weathersync
+[38;5;73m[ citizen-server-impl] Started resource qb-weathersync
+[38;5;161m[    c-scripting-core] Creating script environments for qb-apartments
+[38;5;73m[ citizen-server-impl] Started resource qb-apartments
+[38;5;161m[    c-scripting-core] Creating script environments for qb-atms
+[38;5;73m[ citizen-server-impl] Started resource qb-atms
+[38;5;161m[    c-scripting-core] Creating script environments for qb-banking
+[38;5;73m[ citizen-server-impl] Started resource qb-banking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bankrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-bankrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-blackjack
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_f_y_casino_01.ytd uses 20.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_m_y_casino_01.ytd uses 20.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource qb-blackjack
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bossmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-bossmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-builderjob
+[38;5;73m[ citizen-server-impl] Started resource qb-builderjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-carwash
+[38;5;73m[ citizen-server-impl] Started resource qb-carwash
+[38;5;161m[    c-scripting-core] Creating script environments for qb-casino
+[38;5;73m[ citizen-server-impl] Started resource qb-casino
+[38;5;161m[    c-scripting-core] Creating script environments for qb-cityhall
+[38;5;73m[ citizen-server-impl] Started resource qb-cityhall
+[38;5;161m[    c-scripting-core] Creating script environments for qb-coke
+[38;5;73m[ citizen-server-impl] Started resource qb-coke
+[38;5;161m[    c-scripting-core] Creating script environments for qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource qb-crafting
+[38;5;73m[ citizen-server-impl] Started resource mhacking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-crypto
+[38;5;73m[ citizen-server-impl] Started resource qb-crypto
+[38;5;161m[    c-scripting-core] Creating script environments for qb-customs
+[38;5;73m[ citizen-server-impl] Started resource qb-customs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-diving
+[38;5;73m[ citizen-server-impl] Started resource qb-diving
+[38;5;161m[    c-scripting-core] Creating script environments for qb-doorlock
+[38;5;73m[ citizen-server-impl] Started resource qb-doorlock
+[38;5;161m[    c-scripting-core] Creating script environments for qb-fitbit
+[38;5;73m[ citizen-server-impl] Started resource qb-fitbit
+[38;5;161m[    c-scripting-core] Creating script environments for qb-gangmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-gangmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garages
+[38;5;73m[ citizen-server-impl] Started resource qb-garages
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garbagejob
+[38;5;73m[ citizen-server-impl] Started resource qb-garbagejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hotdogjob
+[38;5;73m[ citizen-server-impl] Started resource qb-hotdogjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houserobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-houserobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houses
+[38;5;73m[ citizen-server-impl] Started resource qb-houses
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hud
+[38;5;73m[ citizen-server-impl] Started resource qb-hud
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ifruitstore
+[38;5;73m[ citizen-server-impl] Started resource qb-ifruitstore
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weapons
+[38;5;73m[ citizen-server-impl] Started resource qb-weapons
+[38;5;161m[    c-scripting-core] Creating script environments for qb-inventory
+[38;5;73m[ citizen-server-impl] Started resource qb-inventory
+[38;5;161m[    c-scripting-core] Creating script environments for qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-keyminigame
+[38;5;161m[    c-scripting-core] Creating script environments for qb-lapraces
+[38;5;73m[ citizen-server-impl] Started resource qb-lapraces
+[38;5;161m[    c-scripting-core] Creating script environments for qb-lawyerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-lawyerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-lockpick
+[38;5;161m[    c-scripting-core] Creating script environments for qb-logs
+[38;5;73m[ citizen-server-impl] Started resource qb-logs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-mechanicjob
+[38;5;73m[ citizen-server-impl] Started resource qb-mechanicjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-methlab
+[38;5;73m[ citizen-server-impl] Started resource qb-methlab
+[38;5;161m[    c-scripting-core] Creating script environments for qb-spawn
+[38;5;73m[ citizen-server-impl] Started resource qb-spawn
+[38;5;161m[    c-scripting-core] Creating script environments for qb-multicharacter
+[38;5;73m[ citizen-server-impl] Started resource qb-multicharacter
+[38;5;161m[    c-scripting-core] Creating script environments for qb-newsjob
+[38;5;73m[ citizen-server-impl] Started resource qb-newsjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-oxyrun
+[38;5;73m[ citizen-server-impl] Started resource qb-oxyrun
+[38;5;161m[    c-scripting-core] Creating script environments for qb-pawnshop
+[38;5;73m[ citizen-server-impl] Started resource qb-pawnshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-policejob
+[38;5;73m[ citizen-server-impl] Started resource qb-policejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-prison
+[38;5;73m[ citizen-server-impl] Started resource qb-prison
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radialmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-radialmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-recyclejob
+[38;5;73m[ citizen-server-impl] Started resource qb-recyclejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scoreboard
+[38;5;73m[ citizen-server-impl] Started resource qb-scoreboard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scrapyard
+[38;5;73m[ citizen-server-impl] Started resource qb-scrapyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-shops
+[38;5;73m[ citizen-server-impl] Started resource qb-shops
+[38;5;161m[    c-scripting-core] Creating script environments for qb-skillbar
+[38;5;73m[ citizen-server-impl] Started resource qb-skillbar
+[38;5;161m[    c-scripting-core] Creating script environments for qb-smallresources
+[38;5;73m[ citizen-server-impl] Started resource qb-smallresources
+[38;5;161m[    c-scripting-core] Creating script environments for qb-storerobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-storerobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-streetraces
+[38;5;73m[ citizen-server-impl] Started resource qb-streetraces
+[38;5;161m[    c-scripting-core] Creating script environments for qb-taxijob
+[38;5;73m[ citizen-server-impl] Started resource qb-taxijob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-towjob
+[38;5;73m[ citizen-server-impl] Started resource qb-towjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-traphouse
+[38;5;73m[ citizen-server-impl] Started resource qb-traphouse
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-truckerjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-truckrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-tunerchip
+[38;5;73m[ citizen-server-impl] Started resource qb-tunerchip
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclefailure
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclefailure
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclekeys
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclekeys
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclepush
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclesales
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclesales
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehicleshop
+[38;5;73m[ citizen-server-impl] Started resource qb-vehicleshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vineyard
+[38;5;73m[ citizen-server-impl] Started resource qb-vineyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weed
+[38;5;73m[ citizen-server-impl] Started resource qb-weed
+[38;5;161m[    c-scripting-core] Creating script environments for LegacyFuel
+[38;5;73m[ citizen-server-impl] Started resource LegacyFuel
+[38;5;73m[ citizen-server-impl] Started resource bob74_ipl
+[38;5;161m[    c-scripting-core] Creating script environments for dpemotes
+[38;5;133m[     script:dpemotes] [dp] Sql Keybinding is turned off, if you want to enable /emotebind, import dpkeybinding.sql and set SqlKeybinding = true in config.lua.
+[38;5;73m[ citizen-server-impl] Started resource dpemotes
+[38;5;161m[    c-scripting-core] Creating script environments for okokChat
+[38;5;73m[ citizen-server-impl] Started resource okokChat
+[38;5;73m[ citizen-server-impl] Started resource safecracker
+[38;5;161m[    c-scripting-core] Creating script environments for pma-voice
+[38;5;73m[ citizen-server-impl] Started resource pma-voice
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radio
+[38;5;73m[ citizen-server-impl] Started resource qb-radio
+[38;5;66m[          svadhesive] Authenticating server license key...
+[38;5;77m[ script:ghmattimysql] [ghmattimysql] [SUCCESS] Database server connection established.
+[38;5;66m[          svadhesive] Server license key authentication succeeded. Welcome!
+[38;5;24m[   script:qb-methlab] Lab entry has been set to location: 1
+[38;5;84m[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 994 milliseconds
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [WARNING] [qb-weed] [946ms] SELECT * FROM house_plants : []
+[38;5;77m[ script:ghmattimysql] [MariaDB:10.3.18-MariaDB-1:10.3.18+maria~stretch] [WARNING] [qb-weed] [948ms] SELECT * FROM house_plants : []
+[38;5;133m[     script:dpemotes] 
+[38;5;133m[     script:dpemotes] dp Emotes (dpemotes) is up to date. (173)
+[38;5;73m[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl]                                      
+[38;5;73m[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://tranqitb-444l7q.users.cfx.re/
+[38;5;73m[ citizen-server-impl] -- [server notice: tebex_not_set]
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] 
+[38;5;173m[ script:connectqueue] QUEUE: Tranqi[license:bc5a2800df8ee519f725eabca276638c7983a5c9] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: Tranqi[license:bc5a2800df8ee519f725eabca276638c7983a5c9] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] Tranqi PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] Tranqi (Citizen ID: DIR59529) has succesfully loaded!
+[38;5;124m[     script:okokChat] SCRIPT ERROR: @okokChat/commands.lua:211: attempt to index a nil value (global 'ESX')
+[38;5;124m[     script:okokChat] > ref (@okokChat/commands.lua:211)
+[38;5;124m[     script:okokChat] SCRIPT ERROR: @okokChat/commands.lua:211: attempt to index a nil value (global 'ESX')
+[38;5;124m[     script:okokChat] > ref (@okokChat/commands.lua:211)
+[38;5;134m[      script:qb-core] Dropped: Tranqi
+[38;5;134m[      script:qb-core] [qb-core:LOG] Tranqi PLAYER SAVED!
