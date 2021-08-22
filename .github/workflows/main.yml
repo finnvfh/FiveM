@@ -1,11 +1,25 @@
-  # uses: GoatG33k/fivem-lua-lint-action@8a9ab119ada8960a016c48ee2efe901dd3989aa7
-  uses: GoatG33k/fivem-lua-lint-action@v1
+- name: luacheck
+  # You may pin to the exact commit or the version.
+  # uses: nebularg/actions-luacheck@86af42dcf465915896671903fcdec3e01a492e87
+  uses: nebularg/actions-luacheck@v1.1.0
   with:
-    # luacheck arguments to pass
-    args: # optional, default is -t
-    # the path name to lint lua in
-    paths: # optional, default is .
-    # capture output into a file
-    capture: # optional, default is 
-    # extra definitions to use, in the format of a+b+c
-    extra_libs: # optional, default is 
+    # A list of files, rockspecs, or directories to be checked.
+Defaults to the workspace path as set by the `path` input.
+
+    files: # optional, default is .
+    # The working directory for luacheck.
+The file list should be relative to this path and output filenames be displayed relative to this path.
+Defaults to the workspace path.
+
+    path: # optional, default is ${{ github.workspace }}
+    # Additional command-line arguments.
+See https://luacheck.readthedocs.io/en/stable/cli.html
+
+    args: # optional
+    # URL to a custom configuration (`.luacheckrc`) file that will be used as the default configuration file.
+
+    config: # optional
+    # Emits annotations for source code at locations parsed from the output. Must be set to "none", "warning" or "error".
+Requires that output of warnings not be suppressed through the -qq or -qqq arguments.
+
+    annotate: # optional, default is none
