@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="2.1" id="{ae521331-ebec-4a32-bca5-985e12560f60}" target="Five">
+	<metadata>
+		<name>British Registration Plates</name>
+		<version>
+			<major>0</major>
+			<minor>8</minor>
+		</version>
+		<author>
+			<displayName>Razor792</displayName>
+		</author>
+		<description footerLink="https://www.gta5-mods.com/misc/united-kingdom-road-signs" footerLinkTitle="[CLICK HERE] For my British UK Road Signs mod"><![CDATA[
+		Adds various British styled registration plates, this mod includes yellow GB identifier plate, pre-1973 black plate, yellow non-identifier plate, white GB identifier plate, white UK identifier plate, official UK registration plate characters and normal maps for all plates and font.
+		
+		**Please remember to create a backup of the original files in case something goes wrong so you can just copy them back over** 
+		**I highly recommend using a mods folder to avoid corrupting your game installation if something goes wrong.**
+		
+		--Problems/Bugs-- 
+		- Game still uses default license plate colours, will change these when I figure out where the game stores this data.
+		
+		--Credits-- 
+		You may use these signs in YouTube videos or in showcases but please give credit if you do so, thank you.]]></description>
+		<largeDescription displayName="Version History"><![CDATA[
+		v0.8 
+		- Initial public release  ]]></largeDescription>
+		
+	</metadata>
+	
+	<colors>
+		<headerBackground useBlackTextColor="False">$FF23366A</headerBackground>
+		<iconBackground>$FF3b5998</iconBackground>
+	</colors>
+	
+	<content>
+		<archive path="x64e.rpf" createIfNotExist="False" type="RPF7">
+			<archive path="levels\gta5\vehicles.rpf" createIfNotExist="False" type="RPF7">
+				<add source="x64e.rpf\levels\gta5\vehicles.rpf\vehshare.ytd">vehshare.ytd</add>
+			</archive>
+		</archive>
+			
+		
+	</content>
+</package>
