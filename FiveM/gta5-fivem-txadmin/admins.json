@@ -1,0 +1,91 @@
+[
+  {
+    "name": "zap735995",
+    "master": true,
+    "password_hash": "$2y$10$v6CmSAPADN9PGcx3woF9Zu7qaAx5WxNfAFMxDKiXFpHodo7a3DdlC",
+    "providers": {},
+    "permissions": []
+  },
+  {
+    "name": "X-ste",
+    "master": false,
+    "password_hash": "$2a$11$YfFJjibgj7lf2h0Oq7Q9KOqz00qGaDuIDyOnXQ4GVg1YqQZHR7q1u",
+    "providers": {
+      "citizenfx": {
+        "id": "X-ste",
+        "identifier": "fivem:1781799",
+        "data": {}
+      },
+      "discord": {
+        "id": "567005909075755008",
+        "identifier": "discord:567005909075755008",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "control.server",
+      "commands.resources",
+      "txadmin.log.view",
+      "menu.vehicle",
+      "players.message",
+      "players.warn",
+      "players.kick",
+      "players.ban",
+      "players.playermode",
+      "players.spectate",
+      "players.teleport"
+    ]
+  },
+  {
+    "name": "lksen",
+    "master": false,
+    "password_hash": "$2a$11$VxkRrrMQt15nWCZeuupumO5nKddYT.3wVRnCWY2TVGw9qZKEHOOZe",
+    "providers": {
+      "citizenfx": {
+        "id": "lksen",
+        "identifier": "fivem:2283516",
+        "data": {
+          "sub": "b770545fcbe79e089d182cf1e108501d",
+          "nameid": "https://forum.cfx.re/internal/user/2283516",
+          "name": "lksen",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/lksen/256/1687718_2.png",
+          "profile": "https://forum.cfx.re/u/lksen"
+        }
+      },
+      "discord": {
+        "id": "445053396227981323",
+        "identifier": "discord:445053396227981323",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "TranqiTB",
+    "master": false,
+    "password_hash": "$2a$11$4/FYORA7CMbdripSoDH7zebtERbrWkq3e39i82dyR.C9PpYll2C4a",
+    "providers": {
+      "citizenfx": {
+        "id": "TranqiTB",
+        "identifier": "fivem:2344008",
+        "data": {
+          "sub": "307ad9c2c8b85336a53bd9cfe5337130",
+          "nameid": "https://forum.cfx.re/internal/user/2344008",
+          "name": "TranqiTB",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/tranqitb/256/702009_2.png",
+          "profile": "https://forum.cfx.re/u/TranqiTB"
+        }
+      },
+      "discord": {
+        "id": "782893241585369089",
+        "identifier": "discord:782893241585369089",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]
